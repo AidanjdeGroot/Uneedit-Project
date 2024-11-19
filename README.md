@@ -2,6 +2,7 @@
 Groep:	Moroni, Kevin, Jiwoo, Aidan\
 Keuze:	Webshop\
 Talen:	HTML, CSS, JS?, PHP, SQL\
+Framework: Laravel\
 Tools:	XAMPP / MAMP\
 Github:	https://github.com/AidanjdeGroot/Uneedit-Project \
 
