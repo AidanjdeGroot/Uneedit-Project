@@ -4,7 +4,6 @@ Keuze:	Webshop\
 Talen:	HTML, CSS, JS?, PHP, SQL\
 Framework: Laravel\
 Tools:	XAMPP / MAMP\
-Github:	https://github.com/AidanjdeGroot/Uneedit-Project \
 
 # Installation
 Clone the Repository to XAMPP's htdocs Folder: Open your terminal and navigate to the htdocs folder inside your XAMPP directory (typically C:/xampp/htdocs on Windows). Clone the repository directly into this folder:
