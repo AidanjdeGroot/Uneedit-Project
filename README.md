@@ -1,7 +1,7 @@
 # project8
 Groep:	Moroni, Kevin, Jiwoo, Aidan\
 Keuze:	Webshop\
-Talen:	HTML, CSS, JS?, PHP, SQL\
+Talen:	HTML, CSS, JS, PHP, SQL\
 Framework: Laravel\
 Tools:	XAMPP / MAMP\
 
